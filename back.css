@@ -1,25 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 .maintitle {
-    font-size: 7vw;
+    font-size: 6vw;
     text-align: center;
     text-transform: uppercase;
-    /* border: 0.5vh whitesmoke; */
-    /* border-style: ridge; */
-    font-weight: 500;
-    margin: 5px;
+    /* font-weight: 500; */
     padding: 5px;
+    margin-top: 50px;
+    display: inline;
+    width: fit-content;
 }
 
 body {
     color: aliceblue;
     font-family: 'Montserrat', sans-serif;
-    background-image: linear-gradient(to right, rgb(26, 107, 238), rgb(255, 0, 247));
-}
-
-.color1,
-.color2 {
-    border-radius: 6px;
-    border: 1px solid black;
+    background-image: linear-gradient(to right, rgb(114, 159, 231), rgb(0, 231, 200));
 }
 
 .generator {
@@ -29,7 +23,7 @@ body {
 }
 
 .roww {
-    margin-top: 30vh;
+    margin-top: 30;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;

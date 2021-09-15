@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 .title {
-    font-size: 10vh;
+    font-size: 7vw;
     text-align: center;
     text-transform: uppercase;
     border: 0.5vh whitesmoke;
@@ -23,7 +23,7 @@ body {
 }
 
 .generator {
-    font-size: 7vh;
+    font-size: 5vh;
     text-transform: uppercase;
     text-align: center;
 }

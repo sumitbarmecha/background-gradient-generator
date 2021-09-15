@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
-.title {
+.maintitle {
     font-size: 7vw;
     text-align: center;
     text-transform: uppercase;
-    border: 0.5vh whitesmoke;
-    border-style: ridge;
+    /* border: 0.5vh whitesmoke; */
+    /* border-style: ridge; */
     font-weight: 500;
     margin: 5px;
     padding: 5px;
@@ -23,12 +23,12 @@ body {
 }
 
 .generator {
-    font-size: 5vh;
+    font-size: 5vw;
     text-transform: uppercase;
     text-align: center;
 }
 
-.row {
+.roww {
     margin-top: 30vh;
     display: flex;
     flex-direction: column;
